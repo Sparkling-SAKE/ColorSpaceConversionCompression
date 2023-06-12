@@ -18,6 +18,7 @@
   YCbCr이미지의 입력을 통해 인간의 시각적 특성을 이용함과 동시에 실제로 Y PSNR이 높아짐에 따라 주관적인 이미지 품질이 향상됨을 보인다.
   
   추가적으로 Gained Unit의 도입을 통해 한 번의 학습으로 여러가지 압축 퀄리티를 얻을 수 있도록 한다.
+  
 ---
 ## 제안된 모델
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/4236f93c-b176-468f-9226-9c761c4f279c)
