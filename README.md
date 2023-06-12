@@ -23,28 +23,28 @@
 ## 제안된 모델
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/4236f93c-b176-468f-9226-9c761c4f279c)
 
-# RD Curve
-## - (PSNR_R + PSNR_G + PSNR_B) / 3
+## RD Curve
+### - (PSNR_R + PSNR_G + PSNR_B) / 3
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/ce4fb50e-2269-40c7-a270-50e7d8e427c6)
-## - (4PSNR_Y + 1PSNR_Cb + 1PSNR_Cr) / 6
+### - (4PSNR_Y + 1PSNR_Cb + 1PSNR_Cr) / 6
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/2ec082dd-2ec1-4fe8-931f-f4b2904868ab)
-## PSNR_Y
+### PSNR_Y
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/5cb4f94e-2ebe-4a47-9558-c326425be1d7)
 
-# 원본과 압축 이미지 비교(Kodak24)
+## 원본과 압축 이미지 비교(Kodak24)
 
-## 이미지 부분 비교
+### 이미지 부분 비교
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/64066f55-6a1b-4fac-a308-ae1bec99dee5)
 
 
 ## 전체적인 이미지 비교
-## Original
+### Original
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/a464ff7a-842d-4419-be95-8a8c9ce155b9)
-## minnen PSNR : 30.322, bpp : 0.077
+### minnen PSNR : 30.322, bpp : 0.077
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/a978b8e4-ad24-4437-8654-57c00e4381ee)
-## minnen + DLEC PSNR : 30.236, bpp : 0.089
+### minnen + DLEC PSNR : 30.236, bpp : 0.089
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/14b9c354-418a-4611-98a7-4cde567e7d4f)
-## minnen + DLEC + Bit Rate Control PSNR : 30.7581, bpp : 0.086
+### minnen + DLEC + Bit Rate Control PSNR : 30.7581, bpp : 0.086
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/64664f25-29c4-4d34-b48d-7a76cd517d50)
 
 
@@ -54,3 +54,4 @@ Transform Network Architectures for Deep Learning Based End-to-End Image/Video C
 D. Minnen, J. Balle, and G. D. Toderici, “Joint autoregressive and ´ hierarchical priors for learned image compression,” in Advances in Neural Information Processing Systems, vol. 31, 2018.
 Z. Cui, J. Wang, S. Gao, T. Guo, Y. Feng, and B. Bai, “Asymmetric gained deep image compression with continuous rate adaptation,” in IEEE/CVF Comp. Vis. Patt. Recog. (CVPR), 2021.
 O. Ugur Ulas, A. Murat Tekalp “Flexible luma-chroma bit allocation in learned image compression for high-fidelity sharper images” PCS, 2022.
+https://github.com/InterDigitalInc/CompressAI
