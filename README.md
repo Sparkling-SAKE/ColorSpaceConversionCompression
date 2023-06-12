@@ -50,8 +50,18 @@
 
 ## 참고 문헌
 Ballé, Johannes, et al, "Variational image compression with a scale hyperprior", 2018
+
+
 Transform Network Architectures for Deep Learning Based End-to-End Image/Video Coding in Subsampled Color Spaces (IEEE Open Journal of signal processing, 2021)
+
+
 D. Minnen, J. Balle, and G. D. Toderici, “Joint autoregressive and ´ hierarchical priors for learned image compression,” in Advances in Neural Information Processing Systems, vol. 31, 2018.
+
+
 Z. Cui, J. Wang, S. Gao, T. Guo, Y. Feng, and B. Bai, “Asymmetric gained deep image compression with continuous rate adaptation,” in IEEE/CVF Comp. Vis. Patt. Recog. (CVPR), 2021.
+
+
 O. Ugur Ulas, A. Murat Tekalp “Flexible luma-chroma bit allocation in learned image compression for high-fidelity sharper images” PCS, 2022.
+
+
 https://github.com/InterDigitalInc/CompressAI
