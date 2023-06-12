@@ -27,11 +27,11 @@
 # 원본과 압축 이미지 비교(Kodak24)
 ## Original
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/a464ff7a-842d-4419-be95-8a8c9ce155b9)
-## minnen
+## minnen PSNR : 30.322, bpp : 0.077
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/a978b8e4-ad24-4437-8654-57c00e4381ee)
-## minnen + DLEC
+## minnen + DLEC PSNR : 30.236, bpp : 0.089
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/14b9c354-418a-4611-98a7-4cde567e7d4f)
-## minnen + DLEC + Bit Rate Control
+## minnen + DLEC + Bit Rate Control PSNR : 30.7581, bpp : 0.086
 ![image](https://github.com/Sparkling-SAKE/ColorSpaceConversionCompression/assets/80191452/64664f25-29c4-4d34-b48d-7a76cd517d50)
 
 # RD Curve
