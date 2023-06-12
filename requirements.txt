@@ -1,0 +1,5 @@
+pytorch-lightning==1.8.6
+hydra-core==1.1.0rc1
+hydra-submitit-launcher==1.1.5.dev2
+wandb
+neuralcompression
